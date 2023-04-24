@@ -25,6 +25,7 @@ beforeinstallprompt
 bhatt
 blocklist
 blockquotes
+Bokmål
 browserslist
 browserstack
 buble
@@ -136,6 +137,7 @@ immer
 infima
 inlines
 intelli
+intellij
 interactiveness
 interpolatable
 investec
@@ -178,6 +180,7 @@ mdast
 mdxa
 mdxast
 mdxhast
+mdxjs
 metadatum
 metastring
 metrica
@@ -189,6 +192,9 @@ mkcert
 mkdir
 mkdirs
 mkdocs
+mkdn
+mdwn
+mkdown
 moesif
 msapplication
 nabors
@@ -388,6 +394,7 @@ wcag
 webfactory
 webp
 webpackbar
+webstorm
 wolcott
 writeups
 xclip
@@ -399,3 +406,4 @@ yangshunz
 zhou
 zoomable
 zpao
+hastscript
